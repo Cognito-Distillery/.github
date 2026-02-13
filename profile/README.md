@@ -31,9 +31,17 @@ Blending Room    explore, refine, and connect with human judgment
 
 ## Projects
 
+### [Moonshine](https://github.com/Cognito-Distillery/moonshine)
+
+The unified standalone edition. Everything in one app — capture, curate, distill, and explore — with no server required. A single SQLite file holds your entire knowledge graph. Semantic search, automatic relationship discovery, and a floating memo for quick capture.
+
+`Tauri 2` `Svelte 5` `Rust` `SQLite` `Cytoscape.js` `OpenAI` `Gemini`
+
+---
+
 ### [Distillery Desktop](https://github.com/Cognito-Distillery/Distillery-desktop)
 
-Where it all begins. A desktop app for capturing and curating your thoughts. Quick-capture with a global shortcut, full-text search, and a distillation queue that syncs with the server.
+The original client. A desktop app for capturing and curating your thoughts. Quick-capture with a global shortcut, full-text search, and a distillation queue that syncs with the server.
 
 `Tauri` `Svelte 5` `Rust` `SQLite`
 
@@ -45,7 +53,7 @@ The engine. Receives queued thoughts, generates embeddings, extracts relationshi
 
 ### [Blending Room](https://github.com/Cognito-Distillery/Distillery-web-dashboard)
 
-The final stage. An interactive graph explorer where AI-casked knowledge meets human judgment. Browse, filter, and refine relationships — every human edit is tracked alongside AI-generated connections.
+The web dashboard. An interactive graph explorer where AI-casked knowledge meets human judgment. Browse, filter, and refine relationships — every human edit is tracked alongside AI-generated connections.
 
 `SvelteKit` `Cytoscape.js` `Tailwind CSS`
 

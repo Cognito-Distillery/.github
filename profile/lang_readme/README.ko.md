@@ -30,9 +30,17 @@ Blending Room    탐색하고, 다듬고, 사람의 판단으로 연결
 
 ## 프로젝트
 
+### [Moonshine](https://github.com/Cognito-Distillery/moonshine)
+
+통합 독립 실행형 에디션. 기록, 선별, 증류, 탐색까지 하나의 앱에서 — 서버 없이 동작합니다. 단일 SQLite 파일에 전체 지식 그래프를 저장합니다. 자연어 검색, 자동 관계 발견, 플로팅 메모를 지원합니다.
+
+`Tauri 2` `Svelte 5` `Rust` `SQLite` `Cytoscape.js` `OpenAI` `Gemini`
+
+---
+
 ### [Distillery Desktop](https://github.com/Cognito-Distillery/Distillery-desktop)
 
-모든 것이 시작되는 곳. 생각을 포착하고 큐레이션하는 데스크톱 앱. 글로벌 단축키로 빠르게 기록하고, 전문 검색과 서버 연동 증류 큐를 제공합니다.
+오리지널 클라이언트. 생각을 포착하고 큐레이션하는 데스크톱 앱. 글로벌 단축키로 빠르게 기록하고, 전문 검색과 서버 연동 증류 큐를 제공합니다.
 
 `Tauri` `Svelte 5` `Rust` `SQLite`
 
@@ -44,7 +52,7 @@ Blending Room    탐색하고, 다듬고, 사람의 판단으로 연결
 
 ### [Blending Room](https://github.com/Cognito-Distillery/Distillery-web-dashboard)
 
-마지막 단계. AI가 캐스킹한 지식에 사람의 판단을 더하는 인터랙티브 그래프 탐색기. 관계를 탐색하고 다듬으며, 모든 사람의 편집은 AI 생성 연결과 함께 추적됩니다.
+웹 대시보드. AI가 캐스킹한 지식에 사람의 판단을 더하는 인터랙티브 그래프 탐색기. 관계를 탐색하고 다듬으며, 모든 사람의 편집은 AI 생성 연결과 함께 추적됩니다.
 
 `SvelteKit` `Cytoscape.js` `Tailwind CSS`
 
