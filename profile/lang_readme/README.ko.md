@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/Cognito-Distillery/Distillery-desktop/main/src-tauri/icons/distillery-icon.svg" width="140" alt="Distillery" />
+  <img src="../assets/distillery-512.png" width="140" alt="Distillery" />
   <h1>Distillery</h1>
   <p><strong>생각을 숙성된 지식으로 증류하다.</strong></p>
   <br>
