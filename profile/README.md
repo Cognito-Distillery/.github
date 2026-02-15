@@ -37,6 +37,12 @@ The unified standalone edition. Everything in one app — capture, curate, disti
 
 `Tauri 2` `Svelte 5` `Rust` `SQLite` `Cytoscape.js` `OpenAI` `Gemini`
 
+### [Moonshine MCP](https://github.com/Cognito-Distillery/Moonshine-MCP)
+
+An MCP server that lets AI assistants — Claude, ChatGPT, Gemini — directly access your Moonshine knowledge graph. Search, browse, and edit your mashes and relationships through natural conversation. Works independently of the Moonshine app.
+
+`MCP` `TypeScript` `better-sqlite3`
+
 ---
 
 ### [Distillery Desktop](https://github.com/Cognito-Distillery/Distillery-desktop)

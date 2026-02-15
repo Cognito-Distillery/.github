@@ -36,6 +36,12 @@ Blending Room    탐색하고, 다듬고, 사람의 판단으로 연결
 
 `Tauri 2` `Svelte 5` `Rust` `SQLite` `Cytoscape.js` `OpenAI` `Gemini`
 
+### [Moonshine MCP](https://github.com/Cognito-Distillery/Moonshine-MCP)
+
+Moonshine 지식 그래프에 AI 어시스턴트(Claude, ChatGPT, Gemini)가 직접 접근할 수 있게 해주는 MCP 서버. 자연어 대화로 매시와 관계를 검색, 탐색, 편집할 수 있습니다. Moonshine 앱과 독립적으로 동작합니다.
+
+`MCP` `TypeScript` `better-sqlite3`
+
 ---
 
 ### [Distillery Desktop](https://github.com/Cognito-Distillery/Distillery-desktop)
