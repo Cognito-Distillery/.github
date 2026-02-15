@@ -57,12 +57,6 @@ The engine. Receives queued thoughts, generates embeddings, extracts relationshi
 
 `Elysia` `PostgreSQL + pgvector` `Neo4j` `OpenAI`
 
-### [Blending Room](https://github.com/Cognito-Distillery/Distillery-web-dashboard)
-
-The web dashboard. An interactive graph explorer where AI-casked knowledge meets human judgment. Browse, filter, and refine relationships — every human edit is tracked alongside AI-generated connections.
-
-`SvelteKit` `Cytoscape.js` `Tailwind CSS`
-
 <br>
 
 ## License
